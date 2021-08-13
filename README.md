@@ -1,2 +1,6 @@
-# BibliotecaGEDCC
-Sistema de Biblioteca em Php - achei esse código e fiz algumas melhorias. É um MVC, com controle de cadastro, entrada e saída de livros com multa.
+# Library v2
+Sistema Bibliotecario
+
+### Version 2.0
+
+- Gestion Libros
